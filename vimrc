@@ -34,7 +34,7 @@ set background=dark
 set listchars=tab:>-,trail:?,eol:$
 set laststatus=2
 set statusline=%t%m\ %y\ %=[%c,%l]\ [%{&fo}]
-"highlight LineNr ctermfg=darkgrey
+highlight LineNr ctermfg=darkgrey
 highlight ExtraWhitespace ctermbg=red guibg=red
 nnoremap <silent> <C-n> :tabnext<CR>
 nnoremap <silent> <C-p> :tabprevious<CR>

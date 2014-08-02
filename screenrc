@@ -103,7 +103,6 @@ termcapinfo linux C8
 # old rxvt versions also need this
 # termcapinfo rxvt C8
 
-
 ################
 #
 # keybindings
@@ -158,3 +157,5 @@ hardstatus alwayslastline "%{wk}%?%-Lw%?%{bw}%n*%f %t%?(%u)%?%{wk}%?%+Lw %=%{mk}
 # defnonblock 1
 # blankerprg rain -d 100
 # idle 30 blanker
+
+term screen-256color
