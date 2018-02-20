@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/shawns/Development/yamazaki/src/app/modules/activation-hub/modules/legal-entity/containers/legal-entity-list'
+let g:netrw_dirhist_2='/Users/shawns/Development/yamazaki/src/app/modules/activation-hub/modules/legal-entity/containers/legal-entity-add'
+let g:netrw_dirhist_3='/Users/shawns/Development/yamazaki/src/app/services/breadcrumbs'
